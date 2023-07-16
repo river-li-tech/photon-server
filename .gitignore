@@ -18,6 +18,8 @@ src-server/Plugins/WebHooks1.2/obj
 src-server/NameServer/Photon.NameServer/bin
 src-server/Photon.Common/bin
 src-server/Photon.Plugins.Common/bin
-
-
-
+src-server/Hive/PhotonHive/bin
+src-server/HivePlugin/bin
+src-server/LoadBalancing/LoadBalancing/bin
+src-server/Plugins/TestPlugins/bin
+src-server/Plugins/WebHooks1.2/bin
