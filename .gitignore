@@ -1,0 +1,23 @@
+﻿
+# ignore dir for build
+src-server/dev_out
+build/log
+src-server/Hive/PhotonHive/obj
+src-server/Hive/PhotonHive.NUnit/obj
+src-server/HivePlugin/obj
+src-server/LoadBalancing/LoadBalancing/obj
+src-server/LoadBalancing/LoadBalancing.UnitTests/obj
+src-server/LoadBalancing/TestClient/obj
+src-server/LoadBalancing/TestInterfaces/obj
+src-server/NameServer/Photon.NameServer/obj
+src-server/Photon.Common/obj
+src-server/Photon.Plugins.Common/obj
+src-server/Photon.UnitTest.Utils/obj
+src-server/Plugins/TestPlugins/obj
+src-server/Plugins/WebHooks1.2/obj
+src-server/NameServer/Photon.NameServer/bin
+src-server/Photon.Common/bin
+src-server/Photon.Plugins.Common/bin
+
+
+
